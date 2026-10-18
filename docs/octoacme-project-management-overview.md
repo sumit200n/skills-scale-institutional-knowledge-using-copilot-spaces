@@ -1,6 +1,6 @@
-# Sumit Kumar OctoAcme Project Management Overview
+# Sumit OctoAcme Project Management Overview
 
-## Purpose
+## Objective
 Provide a concise, shareable introduction to how OctoAcme runs projects so new teammates can quickly understand our approach, roles, and key artifacts.
 
 ## Scope
